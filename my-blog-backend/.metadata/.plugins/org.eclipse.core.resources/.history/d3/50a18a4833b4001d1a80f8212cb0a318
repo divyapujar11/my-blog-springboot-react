@@ -1,0 +1,5 @@
+package com.cg.blog.payloads;
+
+public class UserDto {
+
+}
